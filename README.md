@@ -6,6 +6,7 @@ This project presents an end-to-end Credit Card Analytics Dashboard developed us
 The dashboard enables stakeholders to monitor revenue, transaction volume, customer segmentation, and usage patterns to support data-driven business decisions.
 
 📊 **Dashboard Pages**
+
 1️⃣ **Credit Card Transaction Report**
 
 Focuses on financial performance and transaction trends.
