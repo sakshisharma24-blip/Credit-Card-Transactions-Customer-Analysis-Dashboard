@@ -1,4 +1,4 @@
- 💳 **Credit-Card-Transactions-Customer-Analysis-Dashboad**
+ 💳 **Credit Card Transactions Customer Analysis Dashboad**
  
 📌 **Project Overview**
 
