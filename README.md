@@ -64,11 +64,11 @@ Focuses on customer demographics, income, and spending behavior.
 
 🎛️ **Interactive Features**
 
-- Quarter, card category, gender, transaction type, and date slicers
+- Quarter, card category, gender, transaction type, and date slicers.
 
-- Dynamic drill-downs for detailed analysis
+- Dynamic drill-downs for detailed analysis.
 
-- Cross-filtering across visuals for deeper insights
+- Cross-filtering across visuals for deeper insights.
 
 🛠 **Tools & Technologies Used**
 
@@ -84,11 +84,11 @@ Focuses on customer demographics, income, and spending behavior.
 
 **This dashboard helps organizations:**
 
-- Identify high-value customers and card categories
+- Identify high-value customers and card categories.
 
-- Understand transaction and spending patterns
+- Understand transaction and spending patterns.
 
-- Optimize revenue and interest strategies
+- Optimize revenue and interest strategies.
 
-Improve customer targeting and segmentation*
+- Improve customer targeting and segmentation.
  
