@@ -92,4 +92,8 @@ Focuses on customer demographics, income, and spending behavior.
 - Optimize revenue and interest strategies.
 
 - Improve customer targeting and segmentation.
+
+
  
+<img width="1433" height="1692" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/b135d3d3-f30b-49b4-9d6e-1ed00e7b704e" />
+
